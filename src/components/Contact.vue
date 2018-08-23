@@ -4,15 +4,15 @@
           <v-layout row wrap justify-center align-center class="my-5">
             <v-flex xs12 sm4>
               <v-card class="elevation-0 transparent text-xs-center">
-                  <a href="https://github.com/JuanDiegoLopez">
-                    <img src="@/assets/img/github.svg" alt="github-logo" width="50" class="ma-3">
-                  </a>
-                  <a href="https://www.linkedin.com/in/juan-diego-l%C3%B3pez-triana-17a63915a/">
-                    <img src="@/assets/img/linkedin.svg" alt="github-logo" width="50" class="ma-3">
-                  </a>
-                  <a href="https://www.facebook.com/JuanDiegoLopz">
-                    <img src="@/assets/img/facebook.svg" alt="facebook-logo" width="50" class="ma-3">
-                  </a>
+                  <v-btn fab dark href="https://github.com/JuanDiegoLopez">
+                      <v-icon size="30px">fab fa-facebook</v-icon>
+                  </v-btn>
+                  <v-btn fab dark href="https://www.linkedin.com/in/juan-diego-l%C3%B3pez-triana-17a63915a/">
+                      <v-icon size="30px">fab fa-github</v-icon>
+                  </v-btn>
+                  <v-btn fab dark href="https://www.facebook.com/JuanDiegoLopz">
+                      <v-icon size="30px">fab fa-linkedin</v-icon>
+                  </v-btn>
               </v-card>
             </v-flex>
             <v-flex xs12 sm4 offset-sm1>
