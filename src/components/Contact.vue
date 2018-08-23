@@ -5,13 +5,13 @@
             <v-flex xs12 sm4>
               <v-card class="elevation-0 transparent text-xs-center">
                   <v-btn fab dark href="https://github.com/JuanDiegoLopez">
-                      <v-icon size="30px">fab fa-facebook</v-icon>
+                      <v-icon size="30px">fab fa-linkedin</v-icon>
                   </v-btn>
                   <v-btn fab dark href="https://www.linkedin.com/in/juan-diego-l%C3%B3pez-triana-17a63915a/">
                       <v-icon size="30px">fab fa-github</v-icon>
                   </v-btn>
                   <v-btn fab dark href="https://www.facebook.com/JuanDiegoLopz">
-                      <v-icon size="30px">fab fa-linkedin</v-icon>
+                      <v-icon size="30px">fab fa-facebook</v-icon>
                   </v-btn>
               </v-card>
             </v-flex>
